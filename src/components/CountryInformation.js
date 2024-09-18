@@ -9,7 +9,7 @@ function CountryInformation() {
 
 	const handleSearch = () => { 
 		if (!countryName) { 
-			setError('The input field cannot be empty'); 
+			setError('The input field is empty'); 
 			setCountryData(null); 
 			return; 
 		} 
