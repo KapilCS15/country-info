@@ -1,3 +1,5 @@
+Country Information is a web application to get the country’s information using ReactJS. This project basically implements functional components and manages states. The user can insert the country name in the search input field, and after clicking the search button, this application makes an API call to retrieve the specific country information.
+
 # Getting Started with this app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
